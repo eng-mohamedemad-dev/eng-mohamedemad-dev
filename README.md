@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: **Scalable Laravel Backends with API Integrations**
-- 🐳 Using Docker for environment isolation and deployment
+- 🐳 Using Docker for environment isolation and deployment  
 - 🧪 Practicing **Testing** & GitHub Actions for **CI/CD**
 - 💡 Learning more about **Microservices**, **Queues**, and **Domain-Driven Design**
 - 📫 How to reach me: [mohamedemad@gmail.com](mailto:mohamedemad@gmail.com)
@@ -61,8 +61,16 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:mohamedemad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me/YOUR-USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:mohamedelghool671@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed-emad-eldeen-abdulsattar-607699262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Mohamed.Emad.Dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201068013253" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
