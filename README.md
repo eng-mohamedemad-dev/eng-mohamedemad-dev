@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/YOUR-ID-HERE?v=4" width="150" style="border-radius:50%](https://avatars.githubusercontent.com/u/121383443?s=400&u=f6854d7597cd6737b452f796e9404a40c429194f&v=4)"/>
+  <img src="https://avatars.githubusercontent.com/u/121383443?s=400&u=f6854d7597cd6737b452f796e9404a40c429194f&v=4" width="150" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Emad</h1>
