@@ -37,16 +37,6 @@ I’m a **high-level Laravel Backend Developer** who builds **scalable, secure, 
 
 💡 I’m passionate about solving real-world problems through code, and turning business needs into fast, tested, and deployable systems.
 
----
-
-## 🔥 Projects I'm Proud Of
-
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| **X-Shop** | Full E-commerce system with Admin Panel, Cart, Checkout, Orders, Offers, Coupons, Notifications | Laravel, MySQL, API, Blade |
-| **Blog Master** | Dynamic Blog system with advanced permission system & tags | Laravel, REST API, Spatie Roles |
-| **CI/CD Ready System** | Auto-deploy-ready Laravel backend integrated with Docker & GitHub Actions | Laravel, Docker, GitHub CI |
-
 > 💬 Want to see more? I have private projects I can share in interview 👀
 
 ---
