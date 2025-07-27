@@ -37,8 +37,6 @@ I’m a **high-level Laravel Backend Developer** who builds **scalable, secure, 
 
 💡 I’m passionate about solving real-world problems through code, and turning business needs into fast, tested, and deployable systems.
 
-> 💬 Want to see more? I have private projects I can share in interview 👀
-
 ---
 
 ## 🛠️ Tech Stack
